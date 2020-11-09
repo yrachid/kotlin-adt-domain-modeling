@@ -1,7 +1,7 @@
 # kotlin-adt-domain-modeling
 Domain Modeling with Algebraic Data Types
 
-Inspired by [this talk](https://youtu.be/PLFl95c-IiU) and this article
+Inspired by [this talk](https://youtu.be/PLFl95c-IiU) and [this article.](https://medium.com/swlh/value-based-classes-and-error-handling-in-kotlin-3f14727c0565)
 
 How can we diminish primitive obsession when modeling domain classes?
 
