@@ -39,8 +39,8 @@ object domain {
         ),
         phone = PhoneNumber(
             countryCode = PhoneCountryCode.BRAZIL,
-            areaCode = Digits2.of("51"),
-            number = Digits9.of("980649632")
+            areaCode = Digits2.of("54"),
+            number = Digits9.of("990989999")
         ),
         documents = listOf(
             Document.CPF(
