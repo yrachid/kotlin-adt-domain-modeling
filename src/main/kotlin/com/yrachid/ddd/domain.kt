@@ -47,7 +47,7 @@ object domain {
                 id = Digits11.of("12345678911")
             ),
             Document.RG(
-                id = Digits10.of("7117277272")
+                id = Digits10.of("7777777777")
             ),
             Document.CNH(
                 id = Digits11.of("12345678900")
